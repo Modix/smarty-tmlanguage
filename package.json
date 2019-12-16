@@ -1,0 +1,20 @@
+{
+  "name": "@modix/smarty-tmlanguage",
+  "description": "TextMate grammar files for Smarty 2 for VS Code, Sublime Text, and Atom",
+  "version": "1.0.0",
+  "author": "Modix GmbH <product-dev@modix.eu>",
+  "license": "MIT",
+  "main": "smarty.tmLanguage.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Modix/smarty-tmlanguage.git"
+  },
+  "scripts": {
+    "publish:major": "npm version major",
+    "publish:minor": "npm version minor",
+    "publish:patch": "npm version patch",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
