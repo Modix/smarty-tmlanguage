@@ -1,5 +1,4 @@
 {
-	"$schema": "https://raw.githubusercontent.com/jens-duttke/tmlanguage/master/tmlanguage.json",
 	"name": "mx-smarty",
 	"scopeName": "source.smarty",
 	"fileTypes": [
