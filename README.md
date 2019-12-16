@@ -4,6 +4,8 @@ This repository contains TmLanguage files that can be consumed by [Smarty 3](htt
 
 Latest version of the grammar can be also found as a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=Modix.mx-smarty).
 
+<img src="https://cdn.jsdelivr.net/gh/Modix/smarty-tmlanguage/screenshot.png" width="100%" />
+
 ## Installation
 ``` sh
 npm install @modix/smarty-tmlanguage --save
