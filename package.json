@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "author": "Modix GmbH <product-dev@modix.eu>",
   "license": "MIT",
-  "main": "smarty.tmLanguage.json",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Modix/smarty-tmlanguage.git"
